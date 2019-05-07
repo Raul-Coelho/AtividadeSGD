@@ -23,7 +23,7 @@ sortearNumero : Separa o grupo de numeros A={0,1,2,3,4,5,6,7} e sorteia-os aleat
 ```
 # Main
 
-No main e concatenado as Strings que são randomicamente geradas em uma lista que e apresentada no log do sistema.
+No main está concatenando as Strings que são randomicamente geradas em uma lista que e apresentada no log do sistema.
 
 ## Quantas palavras são possíveis de serem criadas? 
 
